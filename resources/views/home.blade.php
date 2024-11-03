@@ -2,5 +2,7 @@
     <x-slot:heading>
         Home Page
     </x-slot:heading>
-    <h1>{{$greeting}}. from the home page</h1>
+    <h1>{{$greeting}}. from the home page.My name is {{$name}}</h1>
+    <br>
+  
 </x-layout>
